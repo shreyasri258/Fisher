@@ -26,9 +26,9 @@ there are multilple types of enimies that have varying lives and varying points 
 https://shreyasri258.github.io/Fisher/
 
 
-## Quick Demo
+<!-- ## Quick Demo
 
-![App Screenshot](https://www.freecodecamp.org/news/content/images/2022/09/game.gif)
+![App Screenshot](https://www.freecodecamp.org/news/content/images/2022/09/game.gif) -->
 
 
 ## Tech Stack
