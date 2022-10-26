@@ -1,7 +1,7 @@
 
 # FISHER
 
-This is  shooting game built using HTML CSS and JAVASCRIPT .
+This is  shooting game built using HTML CSS and JAVASCRIPT.
 
 
 
